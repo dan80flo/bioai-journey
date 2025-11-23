@@ -1,0 +1,10 @@
+bioai-journey/
+├── week01-04_python_biopython/
+├── week05-08_math_for_bioai/
+├── week09-12_genomic_dashboard_romania/
+├── projects/
+│   ├── gfp-predictor-esm2/
+│   ├── single-cell-atlas/
+│   └── bio-rag-pubmed/
+├── README.md                 ← foarte important!
+└── environment.yml
